@@ -42,4 +42,5 @@ rm(list=ls())
 ### Remember to save you codes before you proceed ###
 
 ### Now instead of 10th row, repeat the whole procedure for the whole matrix ###
-
+### HI
+### I HAVE MADE SOME CHANGES
